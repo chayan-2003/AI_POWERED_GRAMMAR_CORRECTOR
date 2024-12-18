@@ -37,7 +37,7 @@ function App() {
         <div className="text-white font-bold text-6xl rotate-45">✔️</div>
       </div>
 
-      {/* Header Section */}
+
       <header className="text-white p-6 text-center z-10">
         <h1 className="text-4xl font-bold mb-2">Grammatical Correction Tool</h1>
         <p className="mt-2 text-lg">
